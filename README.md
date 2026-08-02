@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td align="center">08</td>
-<td align="center"><a href="#-08--indias-got-latent"><code>India's Got Latent</code></a></td>
+<td align="center"><a href="#-08--xcloud-keyboard-mouse"><code>Xcloud Keyboard/Mouse</code></a></td>
 </tr>
 <tr>
 <td align="center">09</td>
@@ -253,28 +253,23 @@ The place where everything lives. Projects, experiments, and whatever I'm curren
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-08--indias-got-latent"></a>
+<a id="-08--xcloud-keyboard-mouse"></a>
 <br/><br/><br/><br/>
 
 <table>
-<tr>
-<td width="58%" valign="top">
+<tr><td>
 
-<h3><img src="https://img.shields.io/badge/-%20-E5E7EB?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=E5E7EB&center=false&vCenter=true&width=420&height=40&lines=08+%E2%80%94+India%27s+Got+Latent" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-22C55E?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=22C55E&center=false&vCenter=true&width=420&height=40&lines=08+%E2%80%94+Xcloud+Keyboard%2FMouse" align="middle" style="vertical-align:middle;" /></h3>
 
-*Streaming Platform · The Original Build*
+*Chrome Extension*
 
-The project that started the entire Latent rabbit hole. A first attempt that eventually evolved into Latent Hub.
+Xbox Cloud Gaming flat out refuses to run on PC without a controller plugged in. This extension hooks into the browser's HTML5 Gamepad API and translates your keyboard and mouse input into virtual controller signals on the fly, so you can finally play the way you want.
 
-`Streaming` `Media Player` `Web App`
+`HTML` `JavaScript` `Chrome Extension`
 
-<img src="https://img.shields.io/badge/ARCHIVED-Original_Build-6B7280?style=for-the-badge"/>
+<a href="https://github.com/Akshat96af/xcloud-keyboard-mouse"><img src="https://img.shields.io/badge/VIEW_REPO-xcloud--keyboard--mouse-16A34A?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</td>
-<td width="42%">
-<img src="https://i.ibb.co/ds7VMCNW/Screenshot-38.png" width="100%"/>
-</td>
-</tr>
+</td></tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
