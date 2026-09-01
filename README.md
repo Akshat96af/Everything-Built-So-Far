@@ -213,19 +213,24 @@ A growing collection of UI/UX components, frontend layouts, and web experiments 
 <br/><br/><br/><br/>
 
 <table>
-<tr><td>
+<tr>
+<td width="58%" valign="top">
 
 <h3><img src="https://img.shields.io/badge/-%20-F43F5E?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=F43F5E&center=false&vCenter=true&width=360&height=40&lines=06+%E2%80%94+GTA+VI+Archive" align="middle" style="vertical-align:middle;" /></h3>
 
 *Media Hub*
 
-A interactive digital hub designed to aggregate, organize, and showcase GTA VI media assets, trailers, and news updates in one place.
+An interactive digital hub designed to aggregate, organize, and showcase GTA VI media assets, trailers, and news updates in one place.
 
 `Web App` `Media` `Archive`
 
 <a href="#"><img src="https://img.shields.io/badge/VIEW_LIVE-GTA_VI_Archive-E11D48?style=for-the-badge"/></a>
 
-</td></tr>
+</td>
+<td width="42%">
+<img src="https://i.ibb.co/kVNg3mbW/gta6-render.webp" width="100%"/>
+</td>
+</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
