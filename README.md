@@ -234,6 +234,7 @@ An interactive digital hub designed to aggregate, organize, and showcase GTA VI 
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <a id="-07--ps5-ui"></a>
 <br/><br/><br/><br/>
 
