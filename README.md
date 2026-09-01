@@ -207,7 +207,7 @@ A growing collection of UI/UX components, frontend layouts, and web experiments 
 </td></tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://i.ibb.co/kVNg3mbW/gta6-render.webp" width="100%">
 
 <a id="-06--gta-vi-archive"></a>
 <br/><br/><br/><br/>
