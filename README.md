@@ -102,7 +102,7 @@ Built because watching Latent shouldn't feel harder than watching Netflix. Faste
 <a href="https://watch.latent.indevs.in"><img src="https://img.shields.io/badge/VIEW_LIVE-Latenthub-8B5CF6?style=for-the-badge"/></a>
 
 </td>
-<td width="42%">
+<td width="42%" valign="middle" align="center">
 <img src="https://i.ibb.co/3y0jthPy/Screenshot-25.png" width="100%"/>
 </td>
 </tr>
@@ -128,7 +128,7 @@ Music streaming for people who actually care about audio quality. Hi-res tracks,
 <a href="https://akshat96af.github.io/lossify/"><img src="https://img.shields.io/badge/VIEW_LIVE-lossify-06B6D4?style=for-the-badge"/></a>
 
 </td>
-<td width="42%">
+<td width="42%" valign="middle" align="center">
 <img src="https://raw.githubusercontent.com/Akshat96af/lossify/main/assets/home%20page.png" width="100%"/>
 </td>
 </tr>
@@ -154,7 +154,7 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 <a href="https://akshat96af.github.io/Presence/"><img src="https://img.shields.io/badge/VIEW_LIVE-Presence-10B981?style=for-the-badge"/></a>
 
 </td>
-<td width="42%">
+<td width="42%" valign="middle" align="center">
 <img src="https://i.ibb.co/CKqKn0qG/Screenshot-28.png" width="100%"/>
 </td>
 </tr>
@@ -180,7 +180,7 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 <a href="https://akshat96af.github.io/omnibypass"><img src="https://img.shields.io/badge/VIEW_LIVE-Omnibypass-F59E0B?style=for-the-badge"/></a>
 
 </td>
-<td width="42%">
+<td width="42%" valign="middle" align="center">
 <img src="https://i.ibb.co/hxHVf38p/Screenshot-29.png" width="100%"/>
 </td>
 </tr>
@@ -207,7 +207,7 @@ A growing collection of UI/UX components, frontend layouts, and web experiments 
 </td></tr>
 </table>
 
-<img src="https://i.ibb.co/kVNg3mbW/gta6-render.webp" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <a id="-06--gta-vi-archive"></a>
 <br/><br/><br/><br/>
@@ -227,8 +227,8 @@ An interactive digital hub designed to aggregate, organize, and showcase GTA VI 
 <a href="#"><img src="https://img.shields.io/badge/VIEW_LIVE-GTA_VI_Archive-E11D48?style=for-the-badge"/></a>
 
 </td>
-<td width="42%">
-<img src="https://i.ibb.co/kVNg3mbW/gta6-render.webp" width="100%"/>
+<td width="42%" valign="middle" align="center">
+<img src="https://i.ibb.co/kVNg3mbW/gta6-render.webp" width="100%" alt="GTA VI Archive Preview"/>
 </td>
 </tr>
 </table>
@@ -253,7 +253,7 @@ I thought the PS5 dashboard looked cool, so I rebuilt it in the browser using pl
 <a href="https://akshat96af.github.io/ps5ui/"><img src="https://img.shields.io/badge/VIEW_LIVE-PS5_UI-2563EB?style=for-the-badge"/></a>
 
 </td>
-<td width="42%">
+<td width="42%" valign="middle" align="center">
 <img src="https://i.ibb.co/5xrm5gQB/Screenshot-30.png" width="100%"/>
 </td>
 </tr>
@@ -279,7 +279,7 @@ The place where everything lives. Projects, experiments, and whatever I'm curren
 <a href="https://akshat96.qzz.io"><img src="https://img.shields.io/badge/VISIT_SITE-akshat96.qzz.io-EC4899?style=for-the-badge"/></a>
 
 </td>
-<td width="42%">
+<td width="42%" valign="middle" align="center">
 <img src="https://i.ibb.co/VY8ZYWd6/Screenshot-36.png" width="100%"/>
 </td>
 </tr>
