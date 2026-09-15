@@ -228,6 +228,8 @@ An interactive digital hub designed to aggregate, organize, and showcase GTA VI 
 
 `Web App` `Media` `Archive`
 
+<a href="#"><img src="https://img.shields.io/badge/VIEW_LIVE-GTA_VI_Archive-E11D48?style=for-the-badge"/></a>
+
 </td>
 <td width="42%" valign="middle" align="center">
 <img src="https://i.ibb.co/gFg6ybfH/gtavi.png" width="100%" alt="GTA VI Archive Preview"/>
@@ -248,11 +250,11 @@ An interactive digital hub designed to aggregate, organize, and showcase GTA VI 
 
 *Collaborative Music Platform*
 
-Group listening without the countdowns, lag, or “press play now” chaos. SyncLab keeps YouTube playback, shared queues, votes, and controls in sync, with Friends mode for the whole room and DJ mode when one person takes the booth.
+No more yelling “3, 2, 1, play” in the group chat. SyncLab keeps everyone's music in sync while friends queue songs, vote, and fight over who gets DJ mode.
 
 `Music Streaming` `Real-Time Collaboration` `Web App`
 
-<a href="https://akshat96af.github.io/SyncLab"><img src="https://img.shields.io/badge/VIEW_LIVE-SyncLab_BETA-7C3AED?style=for-the-badge"/></a>
+<a href="https://akshat96af.github.io/SyncLab"><img src="https://img.shields.io/badge/VIEW_LIVE-SyncLab_OLD_V1-7C3AED?style=for-the-badge"/></a>
 
 </td>
 <td width="42%" valign="middle" align="center">
