@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1500&color=FFD60A&center=true&vCenter=true&width=350&height=30&lines=11+Projects+%C2%B7+8+Live" alt="stats" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1500&color=FFD60A&center=true&vCenter=true&width=350&height=30&lines=12+Projects+%C2%B7+8+Live" alt="stats" />
 
 </div>
 
@@ -54,23 +54,27 @@
 </tr>
 <tr>
 <td align="center">07</td>
-<td align="center"><a href="#-07--ps5-ui"><code>PS5 UI</code></a></td>
+<td align="center"><a href="#-07--synclab"><code>SyncLab</code></a></td>
 </tr>
 <tr>
 <td align="center">08</td>
-<td align="center"><a href="#-08--portfolio"><code>Portfolio</code></a></td>
+<td align="center"><a href="#-08--ps5-ui"><code>PS5 UI</code></a></td>
 </tr>
 <tr>
 <td align="center">09</td>
-<td align="center"><a href="#-09--ai-watermark-master-skill"><code>AI Watermark Master Skill</code></a></td>
+<td align="center"><a href="#-09--portfolio"><code>Portfolio</code></a></td>
 </tr>
 <tr>
 <td align="center">10</td>
-<td align="center"><a href="#-10--xcloud-keyboard-mouse"><code>Xcloud Keyboard/Mouse</code></a></td>
+<td align="center"><a href="#-10--ai-watermark-master-skill"><code>AI Watermark Master Skill</code></a></td>
 </tr>
 <tr>
 <td align="center">11</td>
-<td align="center"><a href="#-11--protrack"><code>ProTrack</code></a></td>
+<td align="center"><a href="#-11--xcloud-keyboard-mouse"><code>Xcloud Keyboard/Mouse</code></a></td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="center"><a href="#-12--protrack"><code>ProTrack</code></a></td>
 </tr>
 </table>
 
@@ -224,25 +228,49 @@ An interactive digital hub designed to aggregate, organize, and showcase GTA VI 
 
 `Web App` `Media` `Archive`
 
-<a href="#"><img src="https://img.shields.io/badge/VIEW_LIVE-GTA_VI_Archive-E11D48?style=for-the-badge"/></a>
-
 </td>
 <td width="42%" valign="middle" align="center">
-<img src="https://raw.githubusercontent.com/rixezz/app-check-repo/refs/heads/main/gta6-render.webp" width="100%" alt="GTA VI Archive Preview"/>
+<img src="https://i.ibb.co/gFg6ybfH/gtavi.png" width="100%" alt="GTA VI Archive Preview"/>
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-07--ps5-ui"></a>
+<a id="-07--synclab"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3><img src="https://img.shields.io/badge/-%20-60A5FA?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=60A5FA&center=false&vCenter=true&width=260&height=40&lines=07+%E2%80%94+PS5+UI" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-8B5CF6?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=8B5CF6&center=false&vCenter=true&width=300&height=40&lines=07+%E2%80%94+SyncLab" align="middle" style="vertical-align:middle;" /></h3>
+
+*Collaborative Music Platform*
+
+Group listening without the countdowns, lag, or “press play now” chaos. SyncLab keeps YouTube playback, shared queues, votes, and controls in sync, with Friends mode for the whole room and DJ mode when one person takes the booth.
+
+`Music Streaming` `Real-Time Collaboration` `Web App`
+
+<a href="https://akshat96af.github.io/SyncLab"><img src="https://img.shields.io/badge/VIEW_LIVE-SyncLab_BETA-7C3AED?style=for-the-badge"/></a>
+
+</td>
+<td width="42%" valign="middle" align="center">
+<img src="https://i.ibb.co/S4z2GdyP/Synclab.png" width="100%" alt="SyncLab Preview"/>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<a id="-08--ps5-ui"></a>
+<br/><br/><br/><br/>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<h3><img src="https://img.shields.io/badge/-%20-60A5FA?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=60A5FA&center=false&vCenter=true&width=260&height=40&lines=08+%E2%80%94+PS5+UI" align="middle" style="vertical-align:middle;" /></h3>
 
 *UI Recreation*
 
@@ -261,14 +289,14 @@ I thought the PS5 dashboard looked cool, so I rebuilt it in the browser using pl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-08--portfolio"></a>
+<a id="-09--portfolio"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3><img src="https://img.shields.io/badge/-%20-F472B6?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=F472B6&center=false&vCenter=true&width=300&height=40&lines=08+%E2%80%94+Portfolio" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-F472B6?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=F472B6&center=false&vCenter=true&width=300&height=40&lines=09+%E2%80%94+Portfolio" align="middle" style="vertical-align:middle;" /></h3>
 
 *Personal Site*
 
@@ -287,13 +315,13 @@ The place where everything lives. Projects, experiments, and whatever I'm curren
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-09--ai-watermark-master-skill"></a>
+<a id="-10--ai-watermark-master-skill"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr><td>
 
-<h3><img src="https://img.shields.io/badge/-%20-6366F1?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=6366F1&center=false&vCenter=true&width=450&height=40&lines=09+%E2%80%94+AI+Watermark+Master+Skill" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-6366F1?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=6366F1&center=false&vCenter=true&width=450&height=40&lines=10+%E2%80%94+AI+Watermark+Master+Skill" align="middle" style="vertical-align:middle;" /></h3>
 
 *Skill Archive*
 
@@ -301,20 +329,20 @@ A structured collection of rules, prompts, and patterns designed to clean up AI 
 
 `Markdown` `AI` `Prompt Engineering`
 
-<a href="#"><img src="https://img.shields.io/badge/VIEW_REPO-master__skill-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Akshat96af/ai-watermark-remover"><img src="https://img.shields.io/badge/VIEW_REPO-ai--watermark--remover-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td></tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-10--xcloud-keyboard-mouse"></a>
+<a id="-11--xcloud-keyboard-mouse"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr><td>
 
-<h3><img src="https://img.shields.io/badge/-%20-22C55E?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=22C55E&center=false&vCenter=true&width=420&height=40&lines=10+%E2%80%94+Xcloud+Keyboard%2FMouse" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-22C55E?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=22C55E&center=false&vCenter=true&width=420&height=40&lines=11+%E2%80%94+Xcloud+Keyboard%2FMouse" align="middle" style="vertical-align:middle;" /></h3>
 
 *Chrome Extension*
 
@@ -329,13 +357,13 @@ Xbox Cloud Gaming flat out refuses to run on PC without a controller plugged in.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-11--protrack"></a>
+<a id="-12--protrack"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr><td>
 
-<h3><img src="https://img.shields.io/badge/-%20-2DD4BF?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=2DD4BF&center=false&vCenter=true&width=280&height=40&lines=11+%E2%80%94+ProTrack" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-2DD4BF?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=2DD4BF&center=false&vCenter=true&width=280&height=40&lines=12+%E2%80%94+ProTrack" align="middle" style="vertical-align:middle;" /></h3>
 
 *Tracking Dashboard*
 
