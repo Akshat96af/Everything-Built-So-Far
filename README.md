@@ -101,7 +101,7 @@
 
 <h3><img src="https://img.shields.io/badge/-%20-38BDF8?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=300&height=40&lines=01+%E2%80%94+SoulOS" align="middle" style="vertical-align:middle;" /></h3>
 
-*Web OS Concept*
+*Web OS*
 
 Linux freedom, macOS polish, and Windows familiarity all in one ridiculously smooth web OS preview.
 
