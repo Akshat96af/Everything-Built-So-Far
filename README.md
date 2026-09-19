@@ -288,7 +288,7 @@ No more yelling “3, 2, 1, play” in the group chat. SyncLab keeps everyone's 
 
 </td>
 <td width="42%" valign="middle" align="center">
-<img src="https://i.ibb.co/S4z2GdyP/Synclab.png" width="100%" alt="SyncLab Preview"/>
+<img src="https://i.ibb.co/7NRfg5LC/synlab.png" width="100%" alt="SyncLab Preview"/>
 </td>
 </tr>
 </table>
