@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1500&color=FFD60A&center=true&vCenter=true&width=350&height=30&lines=12+Projects+%C2%B7+8+Live" alt="stats" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=1500&color=FFD60A&center=true&vCenter=true&width=350&height=30&lines=13+Projects+%C2%B7+9+Live" alt="stats" />
 
 </div>
 
@@ -30,51 +30,55 @@
 </tr>
 <tr>
 <td align="center">01</td>
-<td align="center"><a href="#-01--latent-hub"><code>Latent Hub</code></a></td>
+<td align="center"><a href="#-01--soulos"><code>SoulOS</code></a></td>
 </tr>
 <tr>
 <td align="center">02</td>
-<td align="center"><a href="#-02--lossify"><code>Lossify</code></a></td>
+<td align="center"><a href="#-02--latent-hub"><code>Latent Hub</code></a></td>
 </tr>
 <tr>
 <td align="center">03</td>
-<td align="center"><a href="#-03--presence"><code>Presence</code></a></td>
+<td align="center"><a href="#-03--lossify"><code>Lossify</code></a></td>
 </tr>
 <tr>
 <td align="center">04</td>
-<td align="center"><a href="#-04--omnibypass"><code>Omnibypass</code></a></td>
+<td align="center"><a href="#-04--presence"><code>Presence</code></a></td>
 </tr>
 <tr>
 <td align="center">05</td>
-<td align="center"><a href="#-05--frontend-skills-vault"><code>Frontend Skills</code></a></td>
+<td align="center"><a href="#-05--omnibypass"><code>Omnibypass</code></a></td>
 </tr>
 <tr>
 <td align="center">06</td>
-<td align="center"><a href="#-06--gta-vi-archive"><code>GTA VI Archive</code></a></td>
+<td align="center"><a href="#-06--frontend-skills-vault"><code>Frontend Skills</code></a></td>
 </tr>
 <tr>
 <td align="center">07</td>
-<td align="center"><a href="#-07--synclab"><code>SyncLab</code></a></td>
+<td align="center"><a href="#-07--gta-vi-archive"><code>GTA VI Archive</code></a></td>
 </tr>
 <tr>
 <td align="center">08</td>
-<td align="center"><a href="#-08--ps5-ui"><code>PS5 UI</code></a></td>
+<td align="center"><a href="#-08--synclab"><code>SyncLab</code></a></td>
 </tr>
 <tr>
 <td align="center">09</td>
-<td align="center"><a href="#-09--portfolio"><code>Portfolio</code></a></td>
+<td align="center"><a href="#-09--ps5-ui"><code>PS5 UI</code></a></td>
 </tr>
 <tr>
 <td align="center">10</td>
-<td align="center"><a href="#-10--ai-watermark-master-skill"><code>AI Watermark Master Skill</code></a></td>
+<td align="center"><a href="#-10--portfolio"><code>Portfolio</code></a></td>
 </tr>
 <tr>
 <td align="center">11</td>
-<td align="center"><a href="#-11--xcloud-keyboard-mouse"><code>Xcloud Keyboard/Mouse</code></a></td>
+<td align="center"><a href="#-11--ai-watermark-master-skill"><code>AI Watermark Master Skill</code></a></td>
 </tr>
 <tr>
 <td align="center">12</td>
-<td align="center"><a href="#-12--protrack"><code>ProTrack</code></a></td>
+<td align="center"><a href="#-12--xcloud-keyboard-mouse"><code>Xcloud Keyboard/Mouse</code></a></td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="center"><a href="#-13--protrack"><code>ProTrack</code></a></td>
 </tr>
 </table>
 
@@ -88,14 +92,40 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-01--latent-hub"></a>
+<a id="-01--soulos"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3><img src="https://img.shields.io/badge/-%20-A855F7?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=A855F7&center=false&vCenter=true&width=380&height=40&lines=01+%E2%80%94+Latent+Hub" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-38BDF8?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=300&height=40&lines=01+%E2%80%94+SoulOS" align="middle" style="vertical-align:middle;" /></h3>
+
+*Web OS Concept*
+
+Linux freedom, macOS polish, and Windows familiarity—all in one ridiculously smooth web OS preview.
+
+`Web OS` `UI/UX` `Motion Design`
+
+<a href="https://akshat96af.github.io/SoulOS/"><img src="https://img.shields.io/badge/VIEW_LIVE-SoulOS-0284C7?style=for-the-badge"/></a>
+
+</td>
+<td width="42%" valign="middle" align="center">
+<img src="https://i.ibb.co/LDxjHhd7/soulos.png" width="100%" alt="SoulOS Preview"/>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<a id="-02--latent-hub"></a>
+<br/><br/><br/><br/>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<h3><img src="https://img.shields.io/badge/-%20-A855F7?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=A855F7&center=false&vCenter=true&width=380&height=40&lines=02+%E2%80%94+Latent+Hub" align="middle" style="vertical-align:middle;" /></h3>
 
 *Streaming Platform*
 
@@ -114,14 +144,14 @@ Built because watching Latent shouldn't feel harder than watching Netflix. Faste
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-02--lossify"></a>
+<a id="-03--lossify"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3><img src="https://img.shields.io/badge/-%20-22D3EE?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=22D3EE&center=false&vCenter=true&width=280&height=40&lines=02+%E2%80%94+Lossify" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-22D3EE?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=22D3EE&center=false&vCenter=true&width=280&height=40&lines=03+%E2%80%94+Lossify" align="middle" style="vertical-align:middle;" /></h3>
 
 *Hi-Res Music Streaming*
 
@@ -140,14 +170,14 @@ Music streaming for people who actually care about audio quality. Hi-res tracks,
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-03--presence"></a>
+<a id="-04--presence"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3><img src="https://img.shields.io/badge/-%20-4ADE80?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=4ADE80&center=false&vCenter=true&width=280&height=40&lines=03+%E2%80%94+Presence" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-4ADE80?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=4ADE80&center=false&vCenter=true&width=280&height=40&lines=04+%E2%80%94+Presence" align="middle" style="vertical-align:middle;" /></h3>
 
 *Attendance Tracker*
 
@@ -166,14 +196,14 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-04--omnibypass"></a>
+<a id="-05--omnibypass"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3><img src="https://img.shields.io/badge/-%20-FBBF24?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=FBBF24&center=false&vCenter=true&width=340&height=40&lines=04+%E2%80%94+Omnibypass" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-FBBF24?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=FBBF24&center=false&vCenter=true&width=340&height=40&lines=05+%E2%80%94+Omnibypass" align="middle" style="vertical-align:middle;" /></h3>
 
 *Browser Utility*
 
@@ -192,13 +222,13 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-05--frontend-skills-vault"></a>
+<a id="-06--frontend-skills-vault"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr><td>
 
-<h3><img src="https://img.shields.io/badge/-%20-FB7185?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=FB7185&center=false&vCenter=true&width=420&height=40&lines=05+%E2%80%94+Frontend+Skills+Vault" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-FB7185?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=FB7185&center=false&vCenter=true&width=420&height=40&lines=06+%E2%80%94+Frontend+Skills+Vault" align="middle" style="vertical-align:middle;" /></h3>
 
 *Learning Archive*
 
@@ -213,14 +243,14 @@ A growing collection of UI/UX components, frontend layouts, and web experiments 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-06--gta-vi-archive"></a>
+<a id="-07--gta-vi-archive"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3><img src="https://img.shields.io/badge/-%20-F43F5E?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=F43F5E&center=false&vCenter=true&width=360&height=40&lines=06+%E2%80%94+GTA+VI+Archive" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-F43F5E?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=F43F5E&center=false&vCenter=true&width=360&height=40&lines=07+%E2%80%94+GTA+VI+Archive" align="middle" style="vertical-align:middle;" /></h3>
 
 *Media Hub*
 
@@ -239,14 +269,14 @@ An interactive digital hub designed to aggregate, organize, and showcase GTA VI 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-07--synclab"></a>
+<a id="-08--synclab"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3><img src="https://img.shields.io/badge/-%20-8B5CF6?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=8B5CF6&center=false&vCenter=true&width=300&height=40&lines=07+%E2%80%94+SyncLab" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-8B5CF6?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=8B5CF6&center=false&vCenter=true&width=300&height=40&lines=08+%E2%80%94+SyncLab" align="middle" style="vertical-align:middle;" /></h3>
 
 *Collaborative Music Platform*
 
@@ -258,21 +288,21 @@ No more yelling “3, 2, 1, play” in the group chat. SyncLab keeps everyone's 
 
 </td>
 <td width="42%" valign="middle" align="center">
-<img src="https://i.ibb.co/7NRfg5LC/synlab.png" width="100%" alt="SyncLab Preview"/>
+<img src="https://i.ibb.co/S4z2GdyP/Synclab.png" width="100%" alt="SyncLab Preview"/>
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-08--ps5-ui"></a>
+<a id="-09--ps5-ui"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3><img src="https://img.shields.io/badge/-%20-60A5FA?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=60A5FA&center=false&vCenter=true&width=260&height=40&lines=08+%E2%80%94+PS5+UI" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-60A5FA?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=60A5FA&center=false&vCenter=true&width=260&height=40&lines=09+%E2%80%94+PS5+UI" align="middle" style="vertical-align:middle;" /></h3>
 
 *UI Recreation*
 
@@ -291,14 +321,14 @@ I thought the PS5 dashboard looked cool, so I rebuilt it in the browser using pl
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-09--portfolio"></a>
+<a id="-10--portfolio"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-<h3><img src="https://img.shields.io/badge/-%20-F472B6?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=F472B6&center=false&vCenter=true&width=300&height=40&lines=09+%E2%80%94+Portfolio" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-F472B6?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=F472B6&center=false&vCenter=true&width=300&height=40&lines=10+%E2%80%94+Portfolio" align="middle" style="vertical-align:middle;" /></h3>
 
 *Personal Site*
 
@@ -317,13 +347,13 @@ The place where everything lives. Projects, experiments, and whatever I'm curren
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-10--ai-watermark-master-skill"></a>
+<a id="-11--ai-watermark-master-skill"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr><td>
 
-<h3><img src="https://img.shields.io/badge/-%20-6366F1?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=6366F1&center=false&vCenter=true&width=450&height=40&lines=10+%E2%80%94+AI+Watermark+Master+Skill" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-6366F1?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=6366F1&center=false&vCenter=true&width=450&height=40&lines=11+%E2%80%94+AI+Watermark+Master+Skill" align="middle" style="vertical-align:middle;" /></h3>
 
 *Skill Archive*
 
@@ -338,13 +368,13 @@ A structured collection of rules, prompts, and patterns designed to clean up AI 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-11--xcloud-keyboard-mouse"></a>
+<a id="-12--xcloud-keyboard-mouse"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr><td>
 
-<h3><img src="https://img.shields.io/badge/-%20-22C55E?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=22C55E&center=false&vCenter=true&width=420&height=40&lines=11+%E2%80%94+Xcloud+Keyboard%2FMouse" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-22C55E?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=22C55E&center=false&vCenter=true&width=420&height=40&lines=12+%E2%80%94+Xcloud+Keyboard%2FMouse" align="middle" style="vertical-align:middle;" /></h3>
 
 *Chrome Extension*
 
@@ -359,13 +389,13 @@ Xbox Cloud Gaming flat out refuses to run on PC without a controller plugged in.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a id="-12--protrack"></a>
+<a id="-13--protrack"></a>
 <br/><br/><br/><br/>
 
 <table>
 <tr><td>
 
-<h3><img src="https://img.shields.io/badge/-%20-2DD4BF?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=2DD4BF&center=false&vCenter=true&width=280&height=40&lines=12+%E2%80%94+ProTrack" align="middle" style="vertical-align:middle;" /></h3>
+<h3><img src="https://img.shields.io/badge/-%20-2DD4BF?style=flat-square" width="14" height="40" align="middle" style="vertical-align:middle;" />&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=2DD4BF&center=false&vCenter=true&width=280&height=40&lines=13+%E2%80%94+ProTrack" align="middle" style="vertical-align:middle;" /></h3>
 
 *Tracking Dashboard*
 
