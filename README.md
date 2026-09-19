@@ -103,7 +103,7 @@
 
 *Web OS Concept*
 
-Linux freedom, macOS polish, and Windows familiarity—all in one ridiculously smooth web OS preview.
+Linux freedom, macOS polish, and Windows familiarity all in one ridiculously smooth web OS preview.
 
 `Web OS` `UI/UX` `Motion Design`
 
