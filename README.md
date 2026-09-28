@@ -115,7 +115,7 @@ Mac vibes, zero install. Boot it up, get through setup, drag windows around, and
 
 </td>
 <td width="42%" valign="middle" align="center">
-<img src="https://i.ibb.co/cSK6HhS8/hello.png" width="100%" alt="MacOS Preview"/>
+<img src="https://i.ibb.co/h1y4pYNx/macos.jpg" width="100%" alt="MacOS Preview"/>
 </td>
 </tr>
 </table>
