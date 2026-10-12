@@ -8,6 +8,8 @@ The showcase uses repository-local images, so its appearance is versioned with t
 
 ## Image sources
 
+Flare's local `flare-preview.png` is downloaded from its repository's `docs/images/launcher-dark.png`. TubeDeck has no screenshot in its README, so its entry uses a text card.
+
 | Asset | Source |
 | :-- | :-- |
 | `macos-preview.jpg` | https://i.ibb.co/h1y4pYNx/macos.jpg |
@@ -25,6 +27,8 @@ The showcase uses repository-local images, so its appearance is versioned with t
 The old animated title graphics, badges, divider GIF, and waving banners were replaced by static SVG artwork and real text headings. The retired GTA VI preview is not used.
 
 ## Theme choices
+
+The hero and footer use a purple, pink, and cyan palette with layered interface artwork. Buttons use dark surfaces, a tinted border, and an accent rail matched to each project. Flare uses the cyan accent in its launcher; TubeDeck uses coral.
 
 Button accents follow the actual previews: warm stone for MacOS, rose for Latent Hub, lake blue for SoulOS, coral for Lossify, mint for Presence, cyan for Omnibypass, gold for Solitaired, silver for SyncLab, slate blue for PS5 UI, and violet for the portfolio. Projects without previews keep an accent consistent with their previous identity.
 

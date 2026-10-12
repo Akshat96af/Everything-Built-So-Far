@@ -36,6 +36,17 @@
     "repoOnly": false
   },
   {
+    "name": "Flare",
+    "slug": "flare",
+    "color": "78D9F0",
+    "preview": "flare-preview.png",
+    "category": "Windows Command Center",
+    "description": "A keyboard and voice command center for Windows. Find files across drives, act on the selected result, and bring local search, file tools, and optional AI into a glass-inspired launcher. Currently a working preview.",
+    "tags": "`Windows` `Productivity` `Voice Commands`",
+    "url": "https://github.com/Akshat96af/Flare",
+    "repoOnly": true
+  },
+  {
     "name": "Lossify",
     "slug": "lossify",
     "color": "F05B55",
@@ -69,7 +80,19 @@
     "tags": "`Browser Utility` `Automation` `Productivity`\r",
     "url": "https://akshat96af.github.io/omnibypass",
     "oldAnchor": "-06--omnibypass",
-    "repoOnly": false
+    "repoOnly": false,
+    "repo": "https://github.com/Akshat96af/omnibypass"
+  },
+  {
+    "name": "TubeDeck",
+    "slug": "tubedeck",
+    "color": "FF626B",
+    "preview": null,
+    "category": "YouTube Companion Extension",
+    "description": "Go deeper into the video you’re watching. TubeDeck brings transcripts, video Q&A, notes, comments, screenshots, references, and supported downloads into a companion panel for YouTube. AI features use your own Gemini API key.",
+    "tags": "`Chrome Extension` `YouTube` `AI`",
+    "url": "https://github.com/Akshat96af/TubeDeck",
+    "repoOnly": true
   },
   {
     "name": "Frontend Skills Vault",
@@ -118,7 +141,8 @@
     "tags": "`UI Recreation` `CSS Animation` `Design Engineering`\r",
     "url": "https://akshat96af.github.io/ps5ui/",
     "oldAnchor": "-10--ps5-ui",
-    "repoOnly": false
+    "repoOnly": false,
+    "repo": "https://github.com/Akshat96af/ps5ui"
   },
   {
     "name": "Portfolio",
