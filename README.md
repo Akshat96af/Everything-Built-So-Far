@@ -2,13 +2,11 @@
 
 <div align="center">
 
-<img src="assets/ui/hero.svg" width="100%" alt="Everything Built So Far — 16 Projects, 11 Live, 5 Source Repositories" />
+<img src="assets/ui/hero.svg" width="100%" alt="Everything Built So Far" />
 
 </div>
 
-## Project index
-
-Pick a project to explore its preview, description, and links.
+<h2 align="center"><img src="assets/ui/project-index-heading.svg" width="440" alt="Project index" /></h2>
 
 <div align="center">
 
@@ -130,7 +128,7 @@ A keyboard and voice command center for Windows. Find files across drives, act o
 
 </td>
 <td width="46%" valign="middle" align="center">
-<a href="https://github.com/Akshat96af/Flare"><img src="assets/previews/flare-preview.png" width="100%" alt="Flare preview" /></a>
+<a href="https://github.com/Akshat96af/Flare"><img src="assets/previews/flare-preview.png" width="100%" alt="Flare Windows command center — search launcher with voice search and Alt + Space shortcut" /></a>
 </td>
 </tr>
 </table>
