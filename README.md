@@ -2,12 +2,7 @@
 
 <div align="center">
 
-<img src="assets/ui/hero.svg" width="100%" alt="Everything Built So Far — 16 projects, 11 live experiences, 5 repository projects" />
-
-<p>A collection of things I've built: desktop experiences, streaming platforms, everyday tools, and frontend experiments.</p>
-
-<a href="https://akshat96.qzz.io"><img src="assets/ui/portfolio.svg" height="38" alt="Visit my portfolio at akshat96.qzz.io" /></a>
-<a href="https://github.com/Akshat96af"><img src="assets/ui/github.svg" height="38" alt="Visit Akshat96af on GitHub" /></a>
+<img src="assets/ui/hero.svg" width="100%" alt="Everything Built So Far — 16 Projects, 11 Live, 5 Source Repositories" />
 
 </div>
 
@@ -15,24 +10,33 @@
 
 Pick a project to explore its preview, description, and links.
 
-| No. | Project | What it is | Explore |
-| :-- | :-- | :-- | :-- |
-| 01 | [MacOS](#macos) | Desktop Simulator | Live |
-| 02 | [Latent Hub](#latent-hub) | Streaming Platform | Live |
-| 03 | [SoulOS](#soulos) | Web OS Concept | Live |
-| 04 | [Flare](#flare) | Windows Command Center | Repository |
-| 05 | [Lossify](#lossify) | Hi-Res Music Streaming | Live |
-| 06 | [Presence](#presence) | Attendance Tracker | Live |
-| 07 | [Omnibypass](#omnibypass) | Browser Utility | Live |
-| 08 | [TubeDeck](#tubedeck) | YouTube Companion Extension | Repository |
-| 09 | [Frontend Skills Vault](#frontend-skills-vault) | Learning Archive | Repository |
-| 10 | [Solitaired](#solitaired) | Klondike Solitaire | Live |
-| 11 | [SyncLab](#synclab) | Collaborative Music Platform | Live |
-| 12 | [PS5 UI](#ps5-ui) | UI Recreation | Live |
-| 13 | [Portfolio](#portfolio) | Personal Site | Live |
-| 14 | [AI Watermark Master Skill](#ai-watermark-master-skill) | Skill Archive | Repository |
-| 15 | [Xcloud Keyboard/Mouse](#xcloud-keyboard-mouse) | Chrome Extension | Repository |
-| 16 | [ProTrack](#protrack) | Tracking Dashboard | Live |
+<div align="center">
+
+<table width="100%">
+<thead>
+<tr><th width="6%" align="left">No.</th><th width="32%" align="left">Project</th><th width="46%" align="left">What it is</th><th width="16%" align="left">Explore</th></tr>
+</thead>
+<tbody>
+<tr><td>01</td><td><a href="#macos">MacOS</a></td><td>Desktop Simulator</td><td>Live</td></tr>
+<tr><td>02</td><td><a href="#latent-hub">Latent Hub</a></td><td>Streaming Platform</td><td>Live</td></tr>
+<tr><td>03</td><td><a href="#soulos">SoulOS</a></td><td>Web OS Concept</td><td>Live</td></tr>
+<tr><td>04</td><td><a href="#flare">Flare</a></td><td>Windows Command Center</td><td>Repository</td></tr>
+<tr><td>05</td><td><a href="#lossify">Lossify</a></td><td>Hi-Res Music Streaming</td><td>Live</td></tr>
+<tr><td>06</td><td><a href="#presence">Presence</a></td><td>Attendance Tracker</td><td>Live</td></tr>
+<tr><td>07</td><td><a href="#omnibypass">Omnibypass</a></td><td>Browser Utility</td><td>Live</td></tr>
+<tr><td>08</td><td><a href="#tubedeck">TubeDeck</a></td><td>YouTube Companion Extension</td><td>Repository</td></tr>
+<tr><td>09</td><td><a href="#frontend-skills-vault">Frontend Skills Vault</a></td><td>Learning Archive</td><td>Repository</td></tr>
+<tr><td>10</td><td><a href="#solitaired">Solitaired</a></td><td>Klondike Solitaire</td><td>Live</td></tr>
+<tr><td>11</td><td><a href="#synclab">SyncLab</a></td><td>Collaborative Music Platform</td><td>Live</td></tr>
+<tr><td>12</td><td><a href="#ps5-ui">PS5 UI</a></td><td>UI Recreation</td><td>Live</td></tr>
+<tr><td>13</td><td><a href="#portfolio">Portfolio</a></td><td>Personal Site</td><td>Live</td></tr>
+<tr><td>14</td><td><a href="#ai-watermark-master-skill">AI Watermark Master Skill</a></td><td>Skill Archive</td><td>Repository</td></tr>
+<tr><td>15</td><td><a href="#xcloud-keyboard-mouse">Xcloud Keyboard/Mouse</a></td><td>Chrome Extension</td><td>Repository</td></tr>
+<tr><td>16</td><td><a href="#protrack">ProTrack</a></td><td>Tracking Dashboard</td><td>Live</td></tr>
+</tbody>
+</table>
+
+</div>
 
 <h2 align="center"><img src="assets/ui/featured-heading.svg" width="440" alt="Featured work" /></h2>
 
@@ -51,7 +55,7 @@ Mac vibes, zero install. Boot it up, get through setup, drag windows around, and
 
 `React` `UI Recreation` `Web App`
 
-<a href="https://akshat96af.github.io/MacOS/"><img src="assets/ui/macos-action.svg" height="42" alt="View live — MacOS" /></a>
+<a href="https://akshat96af.github.io/MacOS/"><img src="assets/ui/macos-action.svg" alt="View live — MacOS" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -75,7 +79,7 @@ Built because watching Latent shouldn't feel harder than watching Netflix. Faste
 
 `Streaming` `Media Player` `Web App`
 
-<a href="https://watch.latent.indevs.in"><img src="assets/ui/latent-hub-action.svg" height="42" alt="View live — Latent Hub" /></a>
+<a href="https://watch.latent.indevs.in"><img src="assets/ui/latent-hub-action.svg" alt="View live — Latent Hub" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -99,7 +103,7 @@ Linux freedom, macOS polish, and Windows familiarity—all in one ridiculously s
 
 `Web OS` `UI/UX` `Motion Design`
 
-<a href="https://akshat96af.github.io/SoulOS/"><img src="assets/ui/soulos-action.svg" height="42" alt="View live — SoulOS" /></a>
+<a href="https://akshat96af.github.io/SoulOS/"><img src="assets/ui/soulos-action.svg" alt="View live — SoulOS" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -122,7 +126,7 @@ A keyboard and voice command center for Windows. Find files across drives, act o
 
 `Windows` `Productivity` `Voice Commands`
 
-<a href="https://github.com/Akshat96af/Flare"><img src="assets/ui/flare-action.svg" height="42" alt="View repository — Flare" /></a>
+<a href="https://github.com/Akshat96af/Flare"><img src="assets/ui/flare-action.svg" alt="View repository — Flare" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -146,7 +150,7 @@ Music streaming for people who actually care about audio quality. Hi-res tracks,
 
 `Audio Streaming` `Hi-Res Media` `PWA`
 
-<a href="https://akshat96af.github.io/lossify/"><img src="assets/ui/lossify-action.svg" height="42" alt="View live — Lossify" /></a>
+<a href="https://akshat96af.github.io/lossify/"><img src="assets/ui/lossify-action.svg" alt="View live — Lossify" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -170,7 +174,7 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 
 `Productivity` `Tracker` `Web App`
 
-<a href="https://akshat96af.github.io/Presence/"><img src="assets/ui/presence-action.svg" height="42" alt="View live — Presence" /></a>
+<a href="https://akshat96af.github.io/Presence/"><img src="assets/ui/presence-action.svg" alt="View live — Presence" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -194,8 +198,8 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 
 `Browser Utility` `Automation` `Productivity`
 
-<a href="https://akshat96af.github.io/omnibypass"><img src="assets/ui/omnibypass-action.svg" height="42" alt="View live — Omnibypass" /></a>
-<a href="https://github.com/Akshat96af/omnibypass"><img src="assets/ui/omnibypass-source.svg" height="42" alt="Omnibypass source code" /></a>
+<a href="https://akshat96af.github.io/omnibypass"><img src="assets/ui/omnibypass-action.svg" alt="View live — Omnibypass" height="48" /></a>
+<a href="https://github.com/Akshat96af/omnibypass"><img src="assets/ui/omnibypass-source.svg" alt="Omnibypass source code" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -218,7 +222,7 @@ Go deeper into the video you’re watching. TubeDeck brings transcripts, video Q
 
 `Chrome Extension` `YouTube` `AI`
 
-<a href="https://github.com/Akshat96af/TubeDeck"><img src="assets/ui/tubedeck-action.svg" height="42" alt="View repository — TubeDeck" /></a>
+<a href="https://github.com/Akshat96af/TubeDeck"><img src="assets/ui/tubedeck-action.svg" alt="View repository — TubeDeck" height="48" /></a>
 
 </td>
 </tr>
@@ -239,7 +243,7 @@ A growing collection of UI/UX components, frontend layouts, and web experiments 
 
 `HTML` `CSS` `JavaScript` `Reference`
 
-<a href="https://github.com/Akshat96af/frontendskills"><img src="assets/ui/frontend-skills-vault-action.svg" height="42" alt="View repository — Frontend Skills Vault" /></a>
+<a href="https://github.com/Akshat96af/frontendskills"><img src="assets/ui/frontend-skills-vault-action.svg" alt="View repository — Frontend Skills Vault" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -262,8 +266,8 @@ A royal take on classic Klondike. Play Draw 1 or Draw 3, try a Daily Deal, and k
 
 `Card Game` `Klondike` `Web App`
 
-<a href="https://akshat96af.github.io/Solitaired/"><img src="assets/ui/solitaired-action.svg" height="42" alt="View live — Solitaired" /></a>
-<a href="https://github.com/Akshat96af/Solitaired"><img src="assets/ui/solitaired-source.svg" height="42" alt="Solitaired source code" /></a>
+<a href="https://akshat96af.github.io/Solitaired/"><img src="assets/ui/solitaired-action.svg" alt="View live — Solitaired" height="48" /></a>
+<a href="https://github.com/Akshat96af/Solitaired"><img src="assets/ui/solitaired-source.svg" alt="Solitaired source code" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -287,7 +291,7 @@ No more yelling “3, 2, 1, play” in the group chat. SyncLab keeps everyone's 
 
 `Music Streaming` `Real-Time Collaboration` `Web App`
 
-<a href="https://akshat96af.github.io/SyncLab"><img src="assets/ui/synclab-action.svg" height="42" alt="View live — SyncLab" /></a>
+<a href="https://akshat96af.github.io/SyncLab"><img src="assets/ui/synclab-action.svg" alt="View live — SyncLab" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -311,8 +315,8 @@ I thought the PS5 dashboard looked cool, so I rebuilt it in the browser using pl
 
 `UI Recreation` `CSS Animation` `Design Engineering`
 
-<a href="https://akshat96af.github.io/ps5ui/"><img src="assets/ui/ps5-ui-action.svg" height="42" alt="View live — PS5 UI" /></a>
-<a href="https://github.com/Akshat96af/ps5ui"><img src="assets/ui/ps5-ui-source.svg" height="42" alt="PS5 UI source code" /></a>
+<a href="https://akshat96af.github.io/ps5ui/"><img src="assets/ui/ps5-ui-action.svg" alt="View live — PS5 UI" height="48" /></a>
+<a href="https://github.com/Akshat96af/ps5ui"><img src="assets/ui/ps5-ui-source.svg" alt="PS5 UI source code" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -336,7 +340,7 @@ The place where everything lives. Projects, experiments, and whatever I'm curren
 
 `Personal Site` `Portfolio` `Design`
 
-<a href="https://akshat96.qzz.io"><img src="assets/ui/portfolio-action.svg" height="42" alt="View live — Portfolio" /></a>
+<a href="https://akshat96.qzz.io"><img src="assets/ui/portfolio-action.svg" alt="View live — Portfolio" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -360,7 +364,7 @@ A structured collection of rules, prompts, and patterns designed to clean up AI 
 
 `Markdown` `AI` `Prompt Engineering`
 
-<a href="https://github.com/Akshat96af/ai-watermark-remover"><img src="assets/ui/ai-watermark-master-skill-action.svg" height="42" alt="View repository — AI Watermark Master Skill" /></a>
+<a href="https://github.com/Akshat96af/ai-watermark-remover"><img src="assets/ui/ai-watermark-master-skill-action.svg" alt="View repository — AI Watermark Master Skill" height="48" /></a>
 
 </td>
 </tr>
@@ -381,7 +385,7 @@ Xbox Cloud Gaming flat out refuses to run on PC without a controller plugged in.
 
 `HTML` `JavaScript` `Chrome Extension`
 
-<a href="https://github.com/Akshat96af/xcloud-keyboard-mouse"><img src="assets/ui/xcloud-keyboard-mouse-action.svg" height="42" alt="View repository — Xcloud Keyboard/Mouse" /></a>
+<a href="https://github.com/Akshat96af/xcloud-keyboard-mouse"><img src="assets/ui/xcloud-keyboard-mouse-action.svg" alt="View repository — Xcloud Keyboard/Mouse" height="48" /></a>
 
 </td>
 </tr>
@@ -402,7 +406,7 @@ A simple way to track rural athletes' progress, wins, and milestones without the
 
 `Tracker` `Dashboard` `Web App`
 
-<a href="https://akshat96af.github.io/ProTrack/"><img src="assets/ui/protrack-action.svg" height="42" alt="View live — ProTrack" /></a>
+<a href="https://akshat96af.github.io/ProTrack/"><img src="assets/ui/protrack-action.svg" alt="View live — ProTrack" height="48" /></a>
 
 </td>
 </tr>
@@ -416,9 +420,9 @@ A simple way to track rural athletes' progress, wins, and milestones without the
 
 <img src="assets/ui/technology-labels.svg" width="660" alt="HTML · CSS · JavaScript · TypeScript · React · Node.js · Git · GitHub · Visual Studio Code · Figma" />
 
-<a href="#top"><img src="assets/ui/back-to-top.svg" width="120" alt="Back to top" /></a>
-<a href="https://akshat96.qzz.io"><img src="assets/ui/footer-portfolio.svg" width="120" alt="Portfolio" /></a>
-<a href="https://github.com/Akshat96af"><img src="assets/ui/footer-github.svg" width="120" alt="GitHub" /></a>
+<a href="#top"><img src="assets/ui/back-to-top.svg" alt="Back to top" height="48" /></a>
+<a href="https://akshat96.qzz.io"><img src="assets/ui/footer-portfolio.svg" alt="Portfolio" height="48" /></a>
+<a href="https://github.com/Akshat96af"><img src="assets/ui/footer-github.svg" alt="GitHub" height="48" /></a>
 
 <img src="assets/ui/footer.svg" width="100%" alt="Built by Akshat96af — keep exploring, keep building" />
 
