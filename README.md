@@ -27,14 +27,14 @@ Pick a project to explore its preview, description, and links.
 | 08 | [TubeDeck](#tubedeck) | YouTube Companion Extension | Repository |
 | 09 | [Frontend Skills Vault](#frontend-skills-vault) | Learning Archive | Repository |
 | 10 | [Solitaired](#solitaired) | Klondike Solitaire | Live |
-| 11 | [SyncLab](#synclab) | Collaborative Music Platform | Live · Old V1 |
+| 11 | [SyncLab](#synclab) | Collaborative Music Platform | Live |
 | 12 | [PS5 UI](#ps5-ui) | UI Recreation | Live |
 | 13 | [Portfolio](#portfolio) | Personal Site | Live |
 | 14 | [AI Watermark Master Skill](#ai-watermark-master-skill) | Skill Archive | Repository |
 | 15 | [Xcloud Keyboard/Mouse](#xcloud-keyboard-mouse) | Chrome Extension | Repository |
 | 16 | [ProTrack](#protrack) | Tracking Dashboard | Live |
 
-## Featured work
+<h2 align="center"><img src="assets/ui/featured-heading.svg" width="440" alt="Featured work" /></h2>
 
 <a id="macos"></a>
 <a id="-01--macos"></a>
@@ -43,7 +43,7 @@ Pick a project to explore its preview, description, and links.
 <tr>
 <td width="54%" valign="top">
 
-<h3>01 · MacOS</h3>
+<h3><img src="assets/ui/macos-heading.svg" width="250" alt="01 · MacOS" /></h3>
 
 <sub><b>DESKTOP SIMULATOR</b></sub>
 
@@ -67,7 +67,7 @@ Mac vibes, zero install. Boot it up, get through setup, drag windows around, and
 <tr>
 <td width="54%" valign="top">
 
-<h3>02 · Latent Hub</h3>
+<h3><img src="assets/ui/latent-hub-heading.svg" width="250" alt="02 · Latent Hub" /></h3>
 
 <sub><b>STREAMING PLATFORM</b></sub>
 
@@ -91,7 +91,7 @@ Built because watching Latent shouldn't feel harder than watching Netflix. Faste
 <tr>
 <td width="54%" valign="top">
 
-<h3>03 · SoulOS</h3>
+<h3><img src="assets/ui/soulos-heading.svg" width="250" alt="03 · SoulOS" /></h3>
 
 <sub><b>WEB OS CONCEPT</b></sub>
 
@@ -114,7 +114,7 @@ Linux freedom, macOS polish, and Windows familiarity—all in one ridiculously s
 <tr>
 <td width="54%" valign="top">
 
-<h3>04 · Flare</h3>
+<h3><img src="assets/ui/flare-heading.svg" width="250" alt="04 · Flare" /></h3>
 
 <sub><b>WINDOWS COMMAND CENTER</b></sub>
 
@@ -138,7 +138,7 @@ A keyboard and voice command center for Windows. Find files across drives, act o
 <tr>
 <td width="54%" valign="top">
 
-<h3>05 · Lossify</h3>
+<h3><img src="assets/ui/lossify-heading.svg" width="250" alt="05 · Lossify" /></h3>
 
 <sub><b>HI-RES MUSIC STREAMING</b></sub>
 
@@ -162,7 +162,7 @@ Music streaming for people who actually care about audio quality. Hi-res tracks,
 <tr>
 <td width="54%" valign="top">
 
-<h3>06 · Presence</h3>
+<h3><img src="assets/ui/presence-heading.svg" width="250" alt="06 · Presence" /></h3>
 
 <sub><b>ATTENDANCE TRACKER</b></sub>
 
@@ -186,7 +186,7 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 <tr>
 <td width="54%" valign="top">
 
-<h3>07 · Omnibypass</h3>
+<h3><img src="assets/ui/omnibypass-heading.svg" width="250" alt="07 · Omnibypass" /></h3>
 
 <sub><b>BROWSER UTILITY</b></sub>
 
@@ -210,7 +210,7 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 <tr>
 <td valign="top">
 
-<h3>08 · TubeDeck</h3>
+<h3><img src="assets/ui/tubedeck-heading.svg" width="250" alt="08 · TubeDeck" /></h3>
 
 <sub><b>YOUTUBE COMPANION EXTENSION</b></sub>
 
@@ -231,7 +231,7 @@ Go deeper into the video you’re watching. TubeDeck brings transcripts, video Q
 <tr>
 <td width="54%" valign="top">
 
-<h3>09 · Frontend Skills Vault</h3>
+<h3><img src="assets/ui/tubedeck-heading.svg" width="402" alt="09 · Frontend Skills Vault" /></h3>
 
 <sub><b>LEARNING ARCHIVE</b></sub>
 
@@ -254,7 +254,7 @@ A growing collection of UI/UX components, frontend layouts, and web experiments 
 <tr>
 <td width="54%" valign="top">
 
-<h3>10 · Solitaired</h3>
+<h3><img src="assets/ui/frontend-skills-vault-heading.svg" width="250" alt="10 · Solitaired" /></h3>
 
 <sub><b>KLONDIKE SOLITAIRE</b></sub>
 
@@ -279,7 +279,7 @@ A royal take on classic Klondike. Play Draw 1 or Draw 3, try a Daily Deal, and k
 <tr>
 <td width="54%" valign="top">
 
-<h3>11 · SyncLab</h3>
+<h3><img src="assets/ui/solitaired-heading.svg" width="250" alt="11 · SyncLab" /></h3>
 
 <sub><b>COLLABORATIVE MUSIC PLATFORM</b> · OLD V1</sub>
 
@@ -303,7 +303,7 @@ No more yelling “3, 2, 1, play” in the group chat. SyncLab keeps everyone's 
 <tr>
 <td width="54%" valign="top">
 
-<h3>12 · PS5 UI</h3>
+<h3><img src="assets/ui/synclab-heading.svg" width="250" alt="12 · PS5 UI" /></h3>
 
 <sub><b>UI RECREATION</b></sub>
 
@@ -328,7 +328,7 @@ I thought the PS5 dashboard looked cool, so I rebuilt it in the browser using pl
 <tr>
 <td width="54%" valign="top">
 
-<h3>13 · Portfolio</h3>
+<h3><img src="assets/ui/ps5-ui-heading.svg" width="250" alt="13 · Portfolio" /></h3>
 
 <sub><b>PERSONAL SITE</b></sub>
 
@@ -352,7 +352,7 @@ The place where everything lives. Projects, experiments, and whatever I'm curren
 <tr>
 <td valign="top">
 
-<h3>14 · AI Watermark Master Skill</h3>
+<h3><img src="assets/ui/portfolio-heading.svg" width="462" alt="14 · AI Watermark Master Skill" /></h3>
 
 <sub><b>SKILL ARCHIVE</b></sub>
 
@@ -373,7 +373,7 @@ A structured collection of rules, prompts, and patterns designed to clean up AI 
 <tr>
 <td valign="top">
 
-<h3>15 · Xcloud Keyboard/Mouse</h3>
+<h3><img src="assets/ui/ai-watermark-master-skill-heading.svg" width="402" alt="15 · Xcloud Keyboard/Mouse" /></h3>
 
 <sub><b>CHROME EXTENSION</b></sub>
 
@@ -394,7 +394,7 @@ Xbox Cloud Gaming flat out refuses to run on PC without a controller plugged in.
 <tr>
 <td valign="top">
 
-<h3>16 · ProTrack</h3>
+<h3><img src="assets/ui/xcloud-keyboard-mouse-heading.svg" width="250" alt="16 · ProTrack" /></h3>
 
 <sub><b>TRACKING DASHBOARD</b></sub>
 
@@ -408,7 +408,7 @@ A simple way to track rural athletes' progress, wins, and milestones without the
 </tr>
 </table>
 
-## Built with
+<h2 align="center"><img src="assets/ui/built-with-heading.svg" width="440" alt="Built with" /></h2>
 
 <div align="center">
 

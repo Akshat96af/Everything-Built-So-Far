@@ -27,7 +27,7 @@ The Frontend Skills collage uses screenshots of [React Bits](https://reactbits.d
 
 ## Theme choices
 
-The hero and footer use a purple, pink, and cyan palette with layered interface artwork. Buttons use dark surfaces, a tinted border, and an accent rail matched to each project. Flare uses the cyan accent in its launcher; TubeDeck uses coral.
+The hero, project titles, section headings, and footer use animated typography on transparent backgrounds. Text colours shift gently, underlines loop, and slim pill buttons have moving border accents. The technology icons float in a staggered loop without an enclosing panel. All assets support reduced-motion preferences. Flare uses the cyan accent in its launcher; TubeDeck uses coral.
 
 Button accents follow the actual previews: warm stone for MacOS, rose for Latent Hub, lake blue for SoulOS, coral for Lossify, mint for Presence, cyan for Omnibypass, gold for Solitaired, silver for SyncLab, slate blue for PS5 UI, and violet for the portfolio. Projects without previews keep an accent consistent with their previous identity.
 
