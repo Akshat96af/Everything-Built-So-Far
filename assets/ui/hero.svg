@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Projects — Everything Built So Far. 14 projects, 11 live experiences, 3 repository archives.">
+<title>Everything Built So Far</title><desc>A collection of web apps, interface recreations, tools, and experiments by Akshat96af.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101B21"/><stop offset="1" stop-color="#0C1017"/></linearGradient><linearGradient id="line"><stop stop-color="#DCC16D"/><stop offset="1" stop-color="#4DAF9E"/></linearGradient></defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/><rect x=".5" y=".5" width="1199" height="359" rx="18" fill="none" stroke="#2A343C"/>
+<g fill="none" stroke="#31464A" stroke-width="1"><rect x="915" y="-74" width="260" height="260" rx="38" transform="rotate(24 1045 56)"/><rect x="889" y="-44" width="260" height="260" rx="38" transform="rotate(24 1019 86)"/><rect x="863" y="-14" width="260" height="260" rx="38" transform="rotate(24 993 116)"/></g>
+<rect x="52" y="48" width="28" height="3" rx="1.5" fill="#DCC16D"/><text x="92" y="54" fill="#DCC16D" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3">AKSHAT96AF / PROJECTS</text>
+<text x="50" y="130" fill="#F4F1E9" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="60" letter-spacing="-2">Everything Built So Far.</text>
+<text x="53" y="175" fill="#A9B7BF" font-family="Arial,Helvetica,sans-serif" font-size="19">Web apps, interfaces, tools, and experiments.</text>
+<path d="M53 212H1147" stroke="#2A343C"/><path d="M53 212H241" stroke="url(#line)" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="53" y="266" fill="#F4F1E9" font-size="28" font-weight="700">14</text><text x="53" y="292" fill="#8D9FA9" font-size="12" letter-spacing="1.5">PROJECTS</text><text x="263" y="266" fill="#DCC16D" font-size="28" font-weight="700">11</text><text x="263" y="292" fill="#8D9FA9" font-size="12" letter-spacing="1.5">LIVE EXPERIENCES</text><text x="516" y="266" fill="#7AC7B5" font-size="28" font-weight="700">03</text><text x="516" y="292" fill="#8D9FA9" font-size="12" letter-spacing="1.5">REPOSITORY ARCHIVES</text></g>
+</svg>
