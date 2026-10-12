@@ -197,7 +197,6 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 `Browser Utility` `Automation` `Productivity`
 
 <a href="https://akshat96af.github.io/omnibypass"><img src="assets/ui/omnibypass-action.svg" alt="View live — Omnibypass" height="48" /></a>
-<a href="https://github.com/Akshat96af/omnibypass"><img src="assets/ui/omnibypass-source.svg" alt="Omnibypass source code" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -265,7 +264,6 @@ A royal take on classic Klondike. Play Draw 1 or Draw 3, try a Daily Deal, and k
 `Card Game` `Klondike` `Web App`
 
 <a href="https://akshat96af.github.io/Solitaired/"><img src="assets/ui/solitaired-action.svg" alt="View live — Solitaired" height="48" /></a>
-<a href="https://github.com/Akshat96af/Solitaired"><img src="assets/ui/solitaired-source.svg" alt="Solitaired source code" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
@@ -314,7 +312,6 @@ I thought the PS5 dashboard looked cool, so I rebuilt it in the browser using pl
 `UI Recreation` `CSS Animation` `Design Engineering`
 
 <a href="https://akshat96af.github.io/ps5ui/"><img src="assets/ui/ps5-ui-action.svg" alt="View live — PS5 UI" height="48" /></a>
-<a href="https://github.com/Akshat96af/ps5ui"><img src="assets/ui/ps5-ui-source.svg" alt="PS5 UI source code" height="48" /></a>
 
 </td>
 <td width="46%" valign="middle" align="center">
