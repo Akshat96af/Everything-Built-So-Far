@@ -18,7 +18,7 @@ Flare's local `flare-preview.png` is downloaded from its repository's `docs/imag
 | `presence-preview.png` | https://i.ibb.co/CKqKn0qG/Screenshot-28.png |
 | `omnibypass-preview.png` | https://i.ibb.co/hxHVf38p/Screenshot-29.png |
 | `solitaired-preview.png` | Screenshot of https://akshat96af.github.io/Solitaired/ |
-| `synclab-preview.png` | https://i.ibb.co/S4z2GdyP/Synclab.png |
+| `synclab-preview.png` | Updated thumbnail supplied by the repository owner on 2026-10-12 |
 | `ps5-ui-preview.png` | https://i.ibb.co/5xrm5gQB/Screenshot-30.png |
 | `portfolio-preview.png` | https://i.ibb.co/VY8ZYWd6/Screenshot-36.png |
 | `built-with.svg` | https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,figma&theme=dark |
@@ -27,7 +27,9 @@ The Frontend Skills collage uses screenshots of [React Bits](https://reactbits.d
 
 ## Theme choices
 
-The hero, project titles, section headings, and footer use animated typography on transparent backgrounds. Text colours shift gently, underlines loop, and slim pill buttons have moving border accents. The technology icons float in a staggered loop without an enclosing panel. All assets support reduced-motion preferences. Flare uses the cyan accent in its launcher; TubeDeck uses coral.
+The hero, project titles, section headings, and footer use animated typography on transparent backgrounds. Each project has its own palette drawn from its preview; colours stay within that palette. Underlines loop and slim pill buttons have moving border accents. The technology icons and brand-coloured labels float in staggered loops. Footer links remain individually clickable. All assets support reduced-motion preferences.
+
+Display lettering uses Google Fonts' Outfit; smaller labels use Plus Jakarta Sans. Lettering is converted to vector paths so SVG images render consistently without external font requests. Accessible titles and README alt text retain the original labels. The font license notices are in `licenses/`. GitHub controls the font used for ordinary README paragraphs.
 
 Button accents follow the actual previews: warm stone for MacOS, rose for Latent Hub, lake blue for SoulOS, coral for Lossify, mint for Presence, cyan for Omnibypass, gold for Solitaired, silver for SyncLab, slate blue for PS5 UI, and violet for the portfolio. Projects without previews keep an accent consistent with their previous identity.
 

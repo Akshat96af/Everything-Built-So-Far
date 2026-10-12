@@ -231,7 +231,7 @@ Go deeper into the video you’re watching. TubeDeck brings transcripts, video Q
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/tubedeck-heading.svg" width="402" alt="09 · Frontend Skills Vault" /></h3>
+<h3><img src="assets/ui/frontend-skills-vault-heading.svg" width="300" alt="09 · Frontend Skills Vault" /></h3>
 
 <sub><b>LEARNING ARCHIVE</b></sub>
 
@@ -254,7 +254,7 @@ A growing collection of UI/UX components, frontend layouts, and web experiments 
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/frontend-skills-vault-heading.svg" width="250" alt="10 · Solitaired" /></h3>
+<h3><img src="assets/ui/solitaired-heading.svg" width="250" alt="10 · Solitaired" /></h3>
 
 <sub><b>KLONDIKE SOLITAIRE</b></sub>
 
@@ -279,7 +279,7 @@ A royal take on classic Klondike. Play Draw 1 or Draw 3, try a Daily Deal, and k
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/solitaired-heading.svg" width="250" alt="11 · SyncLab" /></h3>
+<h3><img src="assets/ui/synclab-heading.svg" width="250" alt="11 · SyncLab" /></h3>
 
 <sub><b>COLLABORATIVE MUSIC PLATFORM</b> · OLD V1</sub>
 
@@ -303,7 +303,7 @@ No more yelling “3, 2, 1, play” in the group chat. SyncLab keeps everyone's 
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/synclab-heading.svg" width="250" alt="12 · PS5 UI" /></h3>
+<h3><img src="assets/ui/ps5-ui-heading.svg" width="250" alt="12 · PS5 UI" /></h3>
 
 <sub><b>UI RECREATION</b></sub>
 
@@ -328,7 +328,7 @@ I thought the PS5 dashboard looked cool, so I rebuilt it in the browser using pl
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/ps5-ui-heading.svg" width="250" alt="13 · Portfolio" /></h3>
+<h3><img src="assets/ui/portfolio-heading.svg" width="250" alt="13 · Portfolio" /></h3>
 
 <sub><b>PERSONAL SITE</b></sub>
 
@@ -352,7 +352,7 @@ The place where everything lives. Projects, experiments, and whatever I'm curren
 <tr>
 <td valign="top">
 
-<h3><img src="assets/ui/portfolio-heading.svg" width="462" alt="14 · AI Watermark Master Skill" /></h3>
+<h3><img src="assets/ui/ai-watermark-master-skill-heading.svg" width="362" alt="14 · AI Watermark Master Skill" /></h3>
 
 <sub><b>SKILL ARCHIVE</b></sub>
 
@@ -373,7 +373,7 @@ A structured collection of rules, prompts, and patterns designed to clean up AI 
 <tr>
 <td valign="top">
 
-<h3><img src="assets/ui/ai-watermark-master-skill-heading.svg" width="402" alt="15 · Xcloud Keyboard/Mouse" /></h3>
+<h3><img src="assets/ui/xcloud-keyboard-mouse-heading.svg" width="339" alt="15 · Xcloud Keyboard/Mouse" /></h3>
 
 <sub><b>CHROME EXTENSION</b></sub>
 
@@ -394,7 +394,7 @@ Xbox Cloud Gaming flat out refuses to run on PC without a controller plugged in.
 <tr>
 <td valign="top">
 
-<h3><img src="assets/ui/xcloud-keyboard-mouse-heading.svg" width="250" alt="16 · ProTrack" /></h3>
+<h3><img src="assets/ui/protrack-heading.svg" width="250" alt="16 · ProTrack" /></h3>
 
 <sub><b>TRACKING DASHBOARD</b></sub>
 
@@ -414,9 +414,11 @@ A simple way to track rural athletes' progress, wins, and milestones without the
 
 <img src="assets/ui/built-with.svg" width="560" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Git, GitHub, Visual Studio Code, and Figma" />
 
-<p>HTML · CSS · JavaScript · TypeScript · React · Node.js<br/>Git · GitHub · Visual Studio Code · Figma</p>
+<img src="assets/ui/technology-labels.svg" width="660" alt="HTML · CSS · JavaScript · TypeScript · React · Node.js · Git · GitHub · Visual Studio Code · Figma" />
 
-[Back to top](#top) · [Portfolio](https://akshat96.qzz.io) · [GitHub](https://github.com/Akshat96af)
+<a href="#top"><img src="assets/ui/back-to-top.svg" width="120" alt="Back to top" /></a>
+<a href="https://akshat96.qzz.io"><img src="assets/ui/footer-portfolio.svg" width="120" alt="Portfolio" /></a>
+<a href="https://github.com/Akshat96af"><img src="assets/ui/footer-github.svg" width="120" alt="GitHub" /></a>
 
 <img src="assets/ui/footer.svg" width="100%" alt="Built by Akshat96af — keep exploring, keep building" />
 
