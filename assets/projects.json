@@ -98,7 +98,7 @@
     "name": "Frontend Skills Vault",
     "slug": "frontend-skills-vault",
     "color": "FB7185",
-    "preview": null,
+    "preview": "frontend-skills-preview.png",
     "category": "Learning Archive",
     "description": "A growing collection of UI/UX components, frontend layouts, and web experiments made for frontend developers who want to build faster, learn by doing, and get better results.\r",
     "tags": "`HTML` `CSS` `JavaScript` `Reference`\r",

@@ -229,7 +229,7 @@ Go deeper into the video you’re watching. TubeDeck brings transcripts, video Q
 
 <table>
 <tr>
-<td valign="top">
+<td width="54%" valign="top">
 
 <h3>09 · Frontend Skills Vault</h3>
 
@@ -241,6 +241,9 @@ A growing collection of UI/UX components, frontend layouts, and web experiments 
 
 <a href="https://github.com/Akshat96af/frontendskills"><img src="assets/ui/frontend-skills-vault-action.svg" height="42" alt="View repository — Frontend Skills Vault" /></a>
 
+</td>
+<td width="46%" valign="middle" align="center">
+<a href="https://github.com/Akshat96af/frontendskills"><img src="assets/previews/frontend-skills-preview.png" width="100%" alt="Frontend Skills collage featuring React Bits, Shader Gradient, Motion, and Aceternity UI" /></a>
 </td>
 </tr>
 </table>
