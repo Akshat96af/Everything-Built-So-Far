@@ -3,8 +3,7 @@
 The showcase uses repository-local images, so its appearance is versioned with the README and does not depend on an image host or badge generator being available.
 
 - `previews/` contains the original project images downloaded from the previous README, plus a screenshot of the Solitaired landing page.
-- `ui/` contains the new static SVG header, footer, and action buttons, plus the downloaded technology icons.
-- `projects.json` records project content and the colour used for each action button. When changing a project, update the main README and this record together.
+- `ui/` contains animated SVG headers, buttons, and technology icons. All animations loop and respect `prefers-reduced-motion`. Text stays readable throughout each loop.
 
 ## Image sources
 
@@ -24,7 +23,7 @@ Flare's local `flare-preview.png` is downloaded from its repository's `docs/imag
 | `portfolio-preview.png` | https://i.ibb.co/VY8ZYWd6/Screenshot-36.png |
 | `built-with.svg` | https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,figma&theme=dark |
 
-The old animated title graphics, badges, divider GIF, and waving banners were replaced by static SVG artwork and real text headings. The retired GTA VI preview is not used.
+The Frontend Skills collage uses screenshots of [React Bits](https://reactbits.dev/), [Shader Gradient](https://shadergradient.co/), [Motion](https://motion.dev/), and [Aceternity UI](https://ui.aceternity.com/), captured on 2026-10-12 and composed with imagegen. Designs and brands belong to their respective creators. The final collage is retained; working captures are excluded.
 
 ## Theme choices
 
