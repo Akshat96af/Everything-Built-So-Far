@@ -19,18 +19,21 @@
 <tr><td>02</td><td><a href="#latent-hub">Latent Hub</a></td><td>Streaming Platform</td><td>Live</td></tr>
 <tr><td>03</td><td><a href="#soulos">SoulOS</a></td><td>Web OS Concept</td><td>Live</td></tr>
 <tr><td>04</td><td><a href="#flare">Flare</a></td><td>Windows Command Center</td><td>Repository</td></tr>
-<tr><td>05</td><td><a href="#lossify">Lossify</a></td><td>Hi-Res Music Streaming</td><td>Live</td></tr>
-<tr><td>06</td><td><a href="#presence">Presence</a></td><td>Attendance Tracker</td><td>Live</td></tr>
-<tr><td>07</td><td><a href="#omnibypass">Omnibypass</a></td><td>Browser Utility</td><td>Live</td></tr>
-<tr><td>08</td><td><a href="#tubedeck">TubeDeck</a></td><td>YouTube Companion Extension</td><td>Repository</td></tr>
-<tr><td>09</td><td><a href="#frontend-skills-vault">Frontend Skills Vault</a></td><td>Learning Archive</td><td>Repository</td></tr>
-<tr><td>10</td><td><a href="#solitaired">Solitaired</a></td><td>Klondike Solitaire</td><td>Live</td></tr>
-<tr><td>11</td><td><a href="#synclab">SyncLab</a></td><td>Collaborative Music Platform</td><td>Live</td></tr>
-<tr><td>12</td><td><a href="#ps5-ui">PS5 UI</a></td><td>UI Recreation</td><td>Live</td></tr>
-<tr><td>13</td><td><a href="#portfolio">Portfolio</a></td><td>Personal Site</td><td>Live</td></tr>
-<tr><td>14</td><td><a href="#ai-watermark-master-skill">AI Watermark Master Skill</a></td><td>Skill Archive</td><td>Repository</td></tr>
-<tr><td>15</td><td><a href="#xcloud-keyboard-mouse">Xcloud Keyboard/Mouse</a></td><td>Chrome Extension</td><td>Repository</td></tr>
-<tr><td>16</td><td><a href="#protrack">ProTrack</a></td><td>Tracking Dashboard</td><td>Live</td></tr>
+<tr><td>05</td><td><a href="#absolute-download-manager">Absolute Download Manager</a></td><td>Windows Download Manager</td><td>Repository</td></tr>
+<tr><td>06</td><td><a href="#notehand">Notehand</a></td><td>Text to Handwriting</td><td>Live</td></tr>
+<tr><td>07</td><td><a href="#lossify">Lossify</a></td><td>Hi-Res Music Streaming</td><td>Live</td></tr>
+<tr><td>08</td><td><a href="#cinelan">CineLAN</a></td><td>Home Media Server</td><td>Repository</td></tr>
+<tr><td>09</td><td><a href="#presence">Presence</a></td><td>Attendance Tracker</td><td>Live</td></tr>
+<tr><td>10</td><td><a href="#omnibypass">Omnibypass</a></td><td>Browser Utility</td><td>Live</td></tr>
+<tr><td>11</td><td><a href="#tubedeck">TubeDeck</a></td><td>YouTube Companion Extension</td><td>Repository</td></tr>
+<tr><td>12</td><td><a href="#frontend-skills-vault">Frontend Skills Vault</a></td><td>Learning Archive</td><td>Repository</td></tr>
+<tr><td>13</td><td><a href="#solitaired">Solitaired</a></td><td>Klondike Solitaire</td><td>Live</td></tr>
+<tr><td>14</td><td><a href="#synclab">SyncLab</a></td><td>Collaborative Music Platform</td><td>Live</td></tr>
+<tr><td>15</td><td><a href="#ps5-ui">PS5 UI</a></td><td>UI Recreation</td><td>Live</td></tr>
+<tr><td>16</td><td><a href="#portfolio">Portfolio</a></td><td>Personal Site</td><td>Live</td></tr>
+<tr><td>17</td><td><a href="#ai-watermark-master-skill">AI Watermark Master Skill</a></td><td>Skill Archive</td><td>Repository</td></tr>
+<tr><td>18</td><td><a href="#xcloud-keyboard-mouse">Xcloud Keyboard/Mouse</a></td><td>Chrome Extension</td><td>Repository</td></tr>
+<tr><td>19</td><td><a href="#protrack">ProTrack</a></td><td>Tracking Dashboard</td><td>Live</td></tr>
 </tbody>
 </table>
 
@@ -133,6 +136,52 @@ A keyboard and voice command center for Windows. Find files across drives, act o
 </tr>
 </table>
 
+<a id="absolute-download-manager"></a>
+
+<table>
+<tr>
+<td width="54%" valign="top">
+
+<h3><img src="assets/ui/absolute-download-manager-heading.svg" width="398" alt="05 · Absolute Download Manager" /></h3>
+
+<sub><b>WINDOWS DOWNLOAD MANAGER</b></sub>
+
+Splits one file into up to 16 parallel streams, picks up where a dropped connection left off, and grabs browser and YouTube downloads through its Chrome/Edge extension.
+
+`Windows` `Kotlin` `Productivity`
+
+<a href="https://github.com/Akshat96af/AwesomeDownloadManager"><img src="assets/ui/absolute-download-manager-action.svg" alt="View repository — Absolute Download Manager" height="48" /></a>
+
+</td>
+<td width="46%" valign="middle" align="center">
+<a href="https://github.com/Akshat96af/AwesomeDownloadManager"><img src="assets/previews/absolute-download-manager-preview.png" width="100%" alt="Absolute Download Manager — download list with a 4K video downloading at 20 MiB/s" /></a>
+</td>
+</tr>
+</table>
+
+<a id="notehand"></a>
+
+<table>
+<tr>
+<td width="54%" valign="top">
+
+<h3><img src="assets/ui/notehand-heading.svg" width="250" alt="06 · Notehand" /></h3>
+
+<sub><b>TEXT TO HANDWRITING</b></sub>
+
+Assignment due and you don't feel like writing it out? Paste your text, pick a notebook page and a pen, and download realistic handwritten pages as PDF or images. Free, no account, no watermark.
+
+`Web App` `Handwriting` `PDF Export`
+
+<a href="https://akshat96af.github.io/Notehand/"><img src="assets/ui/notehand-action.svg" alt="View live — Notehand" height="48" /></a>
+
+</td>
+<td width="46%" valign="middle" align="center">
+<a href="https://akshat96af.github.io/Notehand/"><img src="assets/previews/notehand-preview.png" width="100%" alt="Notehand preview" /></a>
+</td>
+</tr>
+</table>
+
 <a id="lossify"></a>
 <a id="-04--lossify"></a>
 
@@ -140,7 +189,7 @@ A keyboard and voice command center for Windows. Find files across drives, act o
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/lossify-heading.svg" width="250" alt="05 · Lossify" /></h3>
+<h3><img src="assets/ui/lossify-heading.svg" width="250" alt="07 · Lossify" /></h3>
 
 <sub><b>HI-RES MUSIC STREAMING</b></sub>
 
@@ -157,6 +206,29 @@ Music streaming for people who actually care about audio quality. Hi-res tracks,
 </tr>
 </table>
 
+<a id="cinelan"></a>
+
+<table>
+<tr>
+<td width="54%" valign="top">
+
+<h3><img src="assets/ui/cinelan-heading.svg" width="250" alt="08 · CineLAN" /></h3>
+
+<sub><b>HOME MEDIA SERVER</b></sub>
+
+Your movies, music, photos and files from your PC, streamed to any screen at home. Runs on one machine over Wi-Fi with no accounts, no cloud, and nothing to install on the TV or phone.
+
+`Python` `Media Server` `Streaming`
+
+<a href="https://github.com/Akshat96af/CineLAN"><img src="assets/ui/cinelan-action.svg" alt="View repository — CineLAN" height="48" /></a>
+
+</td>
+<td width="46%" valign="middle" align="center">
+<a href="https://github.com/Akshat96af/CineLAN"><img src="assets/previews/cinelan-preview.png" width="100%" alt="CineLAN home screen with Movies, Videos, Music, Images, and Files" /></a>
+</td>
+</tr>
+</table>
+
 <a id="presence"></a>
 <a id="-05--presence"></a>
 
@@ -164,7 +236,7 @@ Music streaming for people who actually care about audio quality. Hi-res tracks,
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/presence-heading.svg" width="250" alt="06 · Presence" /></h3>
+<h3><img src="assets/ui/presence-heading.svg" width="250" alt="09 · Presence" /></h3>
 
 <sub><b>ATTENDANCE TRACKER</b></sub>
 
@@ -188,7 +260,7 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/omnibypass-heading.svg" width="250" alt="07 · Omnibypass" /></h3>
+<h3><img src="assets/ui/omnibypass-heading.svg" width="250" alt="10 · Omnibypass" /></h3>
 
 <sub><b>BROWSER UTILITY</b></sub>
 
@@ -211,7 +283,7 @@ Because nobody wants to calculate attendance percentages manually at 2AM before 
 <tr>
 <td valign="top">
 
-<h3><img src="assets/ui/tubedeck-heading.svg" width="250" alt="08 · TubeDeck" /></h3>
+<h3><img src="assets/ui/tubedeck-heading.svg" width="250" alt="11 · TubeDeck" /></h3>
 
 <sub><b>YOUTUBE COMPANION EXTENSION</b></sub>
 
@@ -232,7 +304,7 @@ Go deeper into the video you’re watching. TubeDeck brings transcripts, video Q
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/frontend-skills-vault-heading.svg" width="300" alt="09 · Frontend Skills Vault" /></h3>
+<h3><img src="assets/ui/frontend-skills-vault-heading.svg" width="292" alt="12 · Frontend Skills Vault" /></h3>
 
 <sub><b>LEARNING ARCHIVE</b></sub>
 
@@ -255,7 +327,7 @@ A growing collection of UI/UX components, frontend layouts, and web experiments 
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/solitaired-heading.svg" width="250" alt="10 · Solitaired" /></h3>
+<h3><img src="assets/ui/solitaired-heading.svg" width="250" alt="13 · Solitaired" /></h3>
 
 <sub><b>KLONDIKE SOLITAIRE</b></sub>
 
@@ -279,7 +351,7 @@ A royal take on classic Klondike. Play Draw 1 or Draw 3, try a Daily Deal, and k
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/synclab-heading.svg" width="250" alt="11 · SyncLab" /></h3>
+<h3><img src="assets/ui/synclab-heading.svg" width="250" alt="14 · SyncLab" /></h3>
 
 <sub><b>COLLABORATIVE MUSIC PLATFORM</b> · OLD V1</sub>
 
@@ -303,7 +375,7 @@ No more yelling “3, 2, 1, play” in the group chat. SyncLab keeps everyone's 
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/ps5-ui-heading.svg" width="250" alt="12 · PS5 UI" /></h3>
+<h3><img src="assets/ui/ps5-ui-heading.svg" width="250" alt="15 · PS5 UI" /></h3>
 
 <sub><b>UI RECREATION</b></sub>
 
@@ -327,7 +399,7 @@ I thought the PS5 dashboard looked cool, so I rebuilt it in the browser using pl
 <tr>
 <td width="54%" valign="top">
 
-<h3><img src="assets/ui/portfolio-heading.svg" width="250" alt="13 · Portfolio" /></h3>
+<h3><img src="assets/ui/portfolio-heading.svg" width="250" alt="16 · Portfolio" /></h3>
 
 <sub><b>PERSONAL SITE</b></sub>
 
@@ -351,7 +423,7 @@ The place where everything lives. Projects, experiments, and whatever I'm curren
 <tr>
 <td valign="top">
 
-<h3><img src="assets/ui/ai-watermark-master-skill-heading.svg" width="362" alt="14 · AI Watermark Master Skill" /></h3>
+<h3><img src="assets/ui/ai-watermark-master-skill-heading.svg" width="360" alt="17 · AI Watermark Master Skill" /></h3>
 
 <sub><b>SKILL ARCHIVE</b></sub>
 
@@ -372,7 +444,7 @@ A structured collection of rules, prompts, and patterns designed to clean up AI 
 <tr>
 <td valign="top">
 
-<h3><img src="assets/ui/xcloud-keyboard-mouse-heading.svg" width="339" alt="15 · Xcloud Keyboard/Mouse" /></h3>
+<h3><img src="assets/ui/xcloud-keyboard-mouse-heading.svg" width="339" alt="18 · Xcloud Keyboard/Mouse" /></h3>
 
 <sub><b>CHROME EXTENSION</b></sub>
 
@@ -393,7 +465,7 @@ Xbox Cloud Gaming flat out refuses to run on PC without a controller plugged in.
 <tr>
 <td valign="top">
 
-<h3><img src="assets/ui/protrack-heading.svg" width="250" alt="16 · ProTrack" /></h3>
+<h3><img src="assets/ui/protrack-heading.svg" width="250" alt="19 · ProTrack" /></h3>
 
 <sub><b>TRACKING DASHBOARD</b></sub>
 
